@@ -1,4 +1,4 @@
-"""Creates the Example and GPT classes for a user to interface with the OpenAI API."""
+
 
 import openai
 
